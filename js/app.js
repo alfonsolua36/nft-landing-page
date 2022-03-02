@@ -1,6 +1,6 @@
 // METAMASK CONNECTION
 const TIMEOUT = 1000;
-const COLLECTION_NAME = 'BOPC-Test';
+const COLLECTION_NAME = 'Bay of Pigs Club';
 let editions = [];
 let dots = 1;
 
